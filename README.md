@@ -55,7 +55,7 @@ In your favorite terminal do the following:
 
 1. Clone the repo
 ```sh
-git clone https://github.com/Jcabs14/Fuze.git
+git clone https://github.com/adrianctwo/fuze.git
 ```
 2. Install NPM packages
 ```sh
