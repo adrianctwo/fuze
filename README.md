@@ -1,6 +1,6 @@
 # Team Fuze Overwatch Teambuilder
 
-[Link to deployed project](https://blooming-escarpment-23380.herokuapp.com/)
+[Link to deployed project](https://fuzeteam.herokuapp.com/)
 
 ## About
 The application is for a user to find a team for Overwatch on what criteria a user is looking for.
